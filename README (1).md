@@ -1,5 +1,5 @@
-# NexusPrime — Offroad Terrain Semantic Segmentation
-### GHR 2.0 Hackathon Submission
+## Offroad Terrain Semantic Segmentation
+
 
 ---
 
