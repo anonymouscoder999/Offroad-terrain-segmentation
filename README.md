@@ -43,7 +43,7 @@ A deep learning model for semantic segmentation of offroad terrain images. Built
 
 ## Project Structure
 ```
-NexusPrime/
+
   train.py         # Training pipeline
   test.py          # Inference + visualization
   evaluate.py      # IoU and accuracy evaluation
