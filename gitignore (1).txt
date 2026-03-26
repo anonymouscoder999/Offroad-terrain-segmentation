@@ -1,0 +1,5 @@
+ Set-Content .gitignore "venv/
+__pycache__/
+*.pth
+test_predictions/
+*.pyc"
