@@ -11,8 +11,8 @@ from tqdm import tqdm
 # CONFIGURATION
 # ─────────────────────────────────────────────
 MODEL_PATH   = 'best_model.pth'
-VAL_IMG_DIR  = r'C:\Users\aditi\Downloads\Offroad_Segmentation_Training_Dataset\Offroad_Segmentation_Training_Dataset\val\Color_Images'
-VAL_MASK_DIR = r'C:\Users\aditi\Downloads\Offroad_Segmentation_Training_Dataset\Offroad_Segmentation_Training_Dataset\val\Segmentation'
+VAL_IMG_DIR  = r'C:\Users\anushka\Downloads\Offroad_Segmentation_Training_Dataset\Offroad_Segmentation_Training_Dataset\val\Color_Images'
+VAL_MASK_DIR = r'C:\Users\anushka\Downloads\Offroad_Segmentation_Training_Dataset\Offroad_Segmentation_Training_Dataset\val\Segmentation'
 IMAGE_SIZE   = 256
 DEVICE       = 'cuda' if torch.cuda.is_available() else 'cpu'
 
